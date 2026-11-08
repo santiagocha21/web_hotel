@@ -1,0 +1,8 @@
+{
+  "name": "Hotel Luna Azul · Luxury Beachfront Resort & Spa",
+  "description": "Portal web exclusivo para visitantes y huéspedes del Hotel Luna Azul en Santa Marta. Reserva de suites de lujo, experiencias gastronómicas frente al mar y panel de recepción hotelera.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
